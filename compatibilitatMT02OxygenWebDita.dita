@@ -9,8 +9,8 @@
                 <cmd><mathml>
                         <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
                             <m:mfrac>
-                                <m:mi>x</m:mi>
                                 <m:mi>y</m:mi>
+                                <m:mi>x</m:mi>
                             </m:mfrac>
                         </m:math>
                     </mathml></cmd>
@@ -18,18 +18,27 @@
             <step>
                 <cmd><mathml>
                         <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
-                            <m:mi>x</m:mi>
+                            <m:mover>
+                                <m:mi>u</m:mi>
+                                <m:mo>&#x2192;</m:mo>
+                            </m:mover>
                             <m:mo>&#xA0;</m:mo>
                             <m:mo>=</m:mo>
                             <m:mo>&#x2009;</m:mo>
-                            <m:msqrt>
-                                <m:mn>3</m:mn>
-                                <m:mi>t</m:mi>
-                                <m:mo>&#xA0;</m:mo>
-                                <m:mo>+</m:mo>
-                                <m:mo>&#xA0;</m:mo>
-                                <m:mn>2</m:mn>
-                            </m:msqrt>
+                            <m:mfenced>
+                                <m:mrow>
+                                    <m:msub>
+                                        <m:mi>u</m:mi>
+                                        <m:mn>1</m:mn>
+                                    </m:msub>
+                                    <m:mo>,</m:mo>
+                                    <m:mo>&#xA0;</m:mo>
+                                    <m:msub>
+                                        <m:mi>u</m:mi>
+                                        <m:mn>2</m:mn>
+                                    </m:msub>
+                                </m:mrow>
+                            </m:mfenced>
                         </m:math>
                     </mathml></cmd>
             </step>
@@ -39,19 +48,24 @@
                             <m:mstyle displaystyle="false">
                                 <m:munderover>
                                     <m:mrow>
-                                        <m:mo>&#x2211;</m:mo>
+                                        <m:mstyle displaystyle="true">
+                                            <m:munder>
+                                                <m:mo>&#x220F;</m:mo>
+                                                <m:mrow>
+                                                  <m:mi>i</m:mi>
+                                                  <m:mo>&#xA0;</m:mo>
+                                                  <m:mo>&gt;</m:mo>
+                                                  <m:mn>2</m:mn>
+                                                  <m:mo>&#xA0;</m:mo>
+                                                </m:mrow>
+                                            </m:munder>
+                                        </m:mstyle>
                                         <m:msup>
                                             <m:mi>i</m:mi>
                                             <m:mn>2</m:mn>
                                         </m:msup>
                                     </m:mrow>
-                                    <m:mrow>
-                                        <m:mi>i</m:mi>
-                                        <m:mo>&#xA0;</m:mo>
-                                        <m:mo>&gt;</m:mo>
-                                        <m:mn>0</m:mn>
-                                        <m:mo>&#xA0;</m:mo>
-                                    </m:mrow>
+                                    <m:mrow/>
                                     <m:mrow/>
                                 </m:munderover>
                             </m:mstyle>
@@ -74,11 +88,11 @@
                         <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
                             <m:mfrac>
                                 <m:mrow>
-                                    <m:mn>1</m:mn>
+                                    <m:mn>5</m:mn>
                                     <m:mo>+</m:mo>
-                                    <m:mn>2</m:mn>
+                                    <m:mn>16</m:mn>
                                 </m:mrow>
-                                <m:mi>n</m:mi>
+                                <m:mi>x</m:mi>
                             </m:mfrac>
                         </m:math>
                     </mathml></cmd>
@@ -90,35 +104,35 @@
                                 <m:mtable>
                                     <m:mtr>
                                         <m:mtd>
-                                            <m:mn>1</m:mn>
-                                        </m:mtd>
-                                        <m:mtd>
                                             <m:mn>2</m:mn>
                                         </m:mtd>
                                         <m:mtd>
-                                            <m:mn>2</m:mn>
+                                            <m:mn>3</m:mn>
+                                        </m:mtd>
+                                        <m:mtd>
+                                            <m:mn>3</m:mn>
                                         </m:mtd>
                                     </m:mtr>
                                     <m:mtr>
                                         <m:mtd>
-                                            <m:mn>2</m:mn>
-                                        </m:mtd>
-                                        <m:mtd>
-                                            <m:mn>1</m:mn>
+                                            <m:mn>3</m:mn>
                                         </m:mtd>
                                         <m:mtd>
                                             <m:mn>2</m:mn>
+                                        </m:mtd>
+                                        <m:mtd>
+                                            <m:mn>3</m:mn>
                                         </m:mtd>
                                     </m:mtr>
                                     <m:mtr>
                                         <m:mtd>
-                                            <m:mn>2</m:mn>
+                                            <m:mn>3</m:mn>
+                                        </m:mtd>
+                                        <m:mtd>
+                                            <m:mn>3</m:mn>
                                         </m:mtd>
                                         <m:mtd>
                                             <m:mn>2</m:mn>
-                                        </m:mtd>
-                                        <m:mtd>
-                                            <m:mn>1</m:mn>
                                         </m:mtd>
                                     </m:mtr>
                                 </m:mtable>
