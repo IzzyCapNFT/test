@@ -9,11 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd><mathml>
-                        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
-                            <mml:mn>123123</mml:mn>
-                        </mml:math>
-                    </mathml></cmd>
+                <cmd/>
             </step>
         </steps>
     </taskbody>
