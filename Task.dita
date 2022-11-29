@@ -9,6 +9,12 @@
                     </m:mfenced>
                 </m:msqrt>
             </m:math>
+        </mathml><mathml>
+            <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                <m:msqrt>
+                    <m:mn>123</m:mn>
+                </m:msqrt>
+            </m:math>
         </mathml></title>
     <shortdesc></shortdesc>
     <taskbody>
@@ -18,6 +24,11 @@
         <steps>
             <step>
                 <cmd><mathml>
+                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                            <m:msqrt>
+                                <m:mn>345</m:mn>
+                            </m:msqrt>
+                        </m:math>
                         <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
                             <m:msqrt>
                                 <m:mn>123123</m:mn>
