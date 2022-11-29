@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_urc_ss1_pvb">
-    <title></title>
+    <title><mathml>
+            <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                <m:msqrt>
+                    <m:mfenced open="|" close="|">
+                        <m:mn>232323</m:mn>
+                    </m:mfenced>
+                </m:msqrt>
+            </m:math>
+        </mathml></title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
