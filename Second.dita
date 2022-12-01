@@ -9,7 +9,16 @@
         </context>
         <steps>
             <step>
-                <cmd/>
+                <cmd><mathml>
+                        <m:math class="wrs_chemistry" xmlns:m="http://www.w3.org/1998/Math/MathML">
+                            <m:mi>OO</m:mi>
+                        </m:math>
+                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                            <m:msqrt>
+                                <m:mn>123</m:mn>
+                            </m:msqrt>
+                        </m:math>
+                    </mathml></cmd>
             </step>
         </steps>
     </taskbody>
