@@ -23,6 +23,14 @@
                             <m:mo>&#x2206;</m:mo>
                             <m:mi mathvariant="normal">O</m:mi>
                         </m:math>
+                        <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                            <m:mfenced open="[" close="]">
+                                <m:mn>888888</m:mn>
+                            </m:mfenced>
+                        </m:math>
+                        <m:math class="wrs_chemistry" xmlns:m="http://www.w3.org/1998/Math/MathML">
+                            <m:mi>SOS</m:mi>
+                        </m:math>
                     </mathml></cmd>
             </step>
         </steps>
