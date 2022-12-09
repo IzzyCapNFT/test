@@ -14,6 +14,17 @@
             <email/>
         </author>
     </info>
+    <informalequation>
+        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML">
+            <mml:msqrt>
+                <mml:mn>23</mml:mn>
+            </mml:msqrt>
+        </mml:math>
+        <mml:math class="wrs_chemistry" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+            <mml:mi mathvariant="normal">O</mml:mi>
+            <mml:mo>&#x2206;</mml:mo>
+        </mml:math>
+    </informalequation>
     <sect1>
         <title/>
         <para/>
