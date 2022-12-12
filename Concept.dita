@@ -4,14 +4,6 @@
     <title></title>
     <shortdesc></shortdesc>
     <conbody>
-        <p><mathml>
-                <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
-                    <m:msqrt>
-                        <m:mfenced open="|" close="|">
-                            <m:mn>356123</m:mn>
-                        </m:mfenced>
-                    </m:msqrt>
-                </m:math>
-            </mathml></p>
+        <p/>
     </conbody>
 </concept>
