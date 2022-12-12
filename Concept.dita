@@ -17,7 +17,7 @@
                 <m:math class="wrs_chemistry" xmlns:m="http://www.w3.org/1998/Math/MathML">
                     <m:mi>molO</m:mi>
                     <m:mo>&#x2206;</m:mo>
-                    <m:mi>Omol</m:mi>
+                    <m:mi mathvariant="normal">O</m:mi>
                 </m:math>
             </mathml></p>
     </conbody>
