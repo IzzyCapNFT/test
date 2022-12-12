@@ -19,21 +19,28 @@
             </mathml><mathml>
                 <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
                     <m:msqrt>
-                        <m:mn>989989898989</m:mn>
+                        <m:mn>989898989</m:mn>
                     </m:msqrt>
                 </m:math>
             </mathml><mathml>
                 <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
                     <m:msqrt>
                         <m:msqrt>
-                            <m:mn>33333</m:mn>
+                            <m:mn>333</m:mn>
                         </m:msqrt>
                     </m:msqrt>
                 </m:math>
             </mathml><mathml>
                 <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
                     <m:mfenced>
-                        <m:mn>43423423</m:mn>
+                        <m:mrow>
+                            <m:mn>4342</m:mn>
+                            <m:mi>a</m:mi>
+                            <m:mi>a</m:mi>
+                            <m:mi>a</m:mi>
+                            <m:mi>a</m:mi>
+                            <m:mn>3423</m:mn>
+                        </m:mrow>
                     </m:mfenced>
                 </m:math>
             </mathml><mathml>
@@ -61,7 +68,7 @@
                         </m:mtr>
                         <m:mtr>
                             <m:mtd>
-                                <m:mn>3</m:mn>
+                                <m:mn>4</m:mn>
                             </m:mtd>
                         </m:mtr>
                     </m:mtable>
