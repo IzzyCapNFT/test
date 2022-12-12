@@ -4,21 +4,6 @@
     <title></title>
     <shortdesc></shortdesc>
     <conbody>
-        <p><mathml>
-                <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
-                    <m:msup>
-                        <m:msqrt>
-                            <m:mn>123</m:mn>
-                        </m:msqrt>
-                        <m:mn>1</m:mn>
-                    </m:msup>
-                </m:math>
-            </mathml><mathml>
-                <m:math class="wrs_chemistry" xmlns:m="http://www.w3.org/1998/Math/MathML">
-                    <m:mi>molO</m:mi>
-                    <m:mo>&#x2206;</m:mo>
-                    <m:mi mathvariant="normal">O</m:mi>
-                </m:math>
-            </mathml></p>
+        <p/>
     </conbody>
 </concept>
