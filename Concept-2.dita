@@ -4,6 +4,16 @@
     <title></title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <p><mathml>
+                <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                    <m:mo>&#xB7;</m:mo>
+                    <m:mi mathvariant="normal">&#x3C0;</m:mi>
+                    <m:mo>&#xB0;</m:mo>
+                    <m:mo>&#x2243;</m:mo>
+                    <m:mo>&#x2243;</m:mo>
+                    <m:mo>&#x2264;</m:mo>
+                    <m:mo>&#x2264;</m:mo>
+                </m:math>
+            </mathml></p>
     </conbody>
 </concept>
